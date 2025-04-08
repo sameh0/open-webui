@@ -16,7 +16,7 @@ aiohttp
 peewee
 bcrypt
 
-litellm==1.30.7
+litellm==1.61.15
 argon2-cffi
 apscheduler
 google-generativeai
